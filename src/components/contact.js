@@ -15,7 +15,8 @@ class Contact extends Component {
       style={{height: '250px'}}
       />
       <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>
-      Computer Science Developer and Researcher studying at Rice University with a specialization in Data Science. Graduating May 2021.
+      Senior at Rice University completing a Bachelor of Science in Computer Science and a Minor in Mathematics and Data Science. Experience in building NLP and question answering models.
+      Recently working in image feature detection and anomaly detection. Also experienced in Full-Stack development and the Agile development cycle.
       </p>
 
       </Cell>
